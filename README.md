@@ -16,9 +16,11 @@ Filtered\_data = IR.remove\_stopwords(data))
 
 Filtered\_data variable has the list of data that is stopword free **code:**
 
-![](Aspose.Words.71a3c005-5641-4358-9a19-423db04fb889.001.png)
+![](Aspose.Wor![Aspose Words 71a3c005-5641-4358-9a19-423db04fb889 001](https://github.com/Prod23/Optimizing-Information-Retrieval-with-IRSystem-Inverted-Index-and-K-gram-Index-using-Skiplists/assets/88609959/056c078c-1242-46b7-8960-7ca1eb139c6d)
+ds.71a3c005-5641-4358-9a19-423db04fb889.001.png)
 
 **Result:**
+![Aspose Words 71a3c005-5641-4358-9a19-423db04fb889 002](https://github.com/Prod23/Optimizing-Information-Retrieval-with-IRSystem-Inverted-Index-and-K-gram-Index-using-Skiplists/assets/88609959/d456566d-8c3c-4d1c-9a9e-b4db7e3bbd83)
 
 ![](Aspose.Words.71a3c005-5641-4358-9a19-423db04fb889.002.png)
 
